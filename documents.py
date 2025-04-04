@@ -6,10 +6,12 @@ from langchain_community.document_loaders import (
     DirectoryLoader
 )
 from langchain_community.vectorstores import Chroma
+from langchain_pinecone import PineconeVectorStore
+from pinecone import Pinecone
 
 
 async def load_documents(
-    db: Chroma
+    db: PineconeVectorStore
 ):
     text_splitter = CharacterTextSplitter(
         chunk_size=100,
@@ -27,8 +29,10 @@ async def load_documents(
 
 def get_context(
     user_query: str,
-    db: Chroma
+    db: PineconeVectorStore
 ) -> str:
+    # retriever = db.as_retriever()
+
     docs = db.similarity_search(user_query)
 
     return "\n\n".join(

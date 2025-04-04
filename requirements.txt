@@ -11,3 +11,4 @@ langchain
 langchain-community
 langchain-cohere
 langchain_pinecone
+langchain-aws

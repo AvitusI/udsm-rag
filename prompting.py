@@ -1,7 +1,8 @@
 from langchain.prompts import (
     SystemMessagePromptTemplate,
     HumanMessagePromptTemplate,
-    ChatPromptTemplate
+    ChatPromptTemplate,
+    MessagesPlaceholder
 )
 
 
@@ -35,5 +36,9 @@ human_message_prompt = HumanMessagePromptTemplate.from_template(
 )
 
 chat_prompt_template = ChatPromptTemplate.from_messages(
-    [system_message_prompt, human_message_prompt]
+    [
+        system_message_prompt,
+        MessagesPlaceholder(variable_name="chat_history"),
+        human_message_prompt
+    ]
 )
