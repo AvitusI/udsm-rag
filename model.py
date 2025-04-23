@@ -11,9 +11,9 @@ from langchain_core.chat_history import InMemoryChatMessageHistory
 
 from langchain.chains.conversation.base import ConversationChain 
 from langchain.chains.conversation.memory import ConversationBufferMemory
+from config import BaseConfig
 
-
-load_dotenv()
+settings = BaseConfig()
 
 """
 model = ChatCohere(
@@ -23,10 +23,12 @@ model = ChatCohere(
 """
 
 model = ChatBedrock(
-    model_id="anthropic.claude-3-haiku-20240307-v1:0",
-    region=os.environ["BEDROCK_AWS_REGION"],
-    aws_access_key_id=os.environ["BEDROCK_AWS_ACCESS_KEY_ID"],
-    aws_secret_access_key=os.environ["BEDROCK_AWS_SECRET_ACCESS_KEY"]
+    model_id="arn:aws:bedrock:us-east-1:371438274233:inference-profile/us.meta.llama3-2-3b-instruct-v1:0",
+    provider='meta',
+  #  model_id="amazon.titan-text-express-v1",
+    region=settings.AWS_REGION,
+    aws_access_key_id=settings.AWS_ACCESS_KEY_ID,
+    aws_secret_access_key=settings.AWS_SECRET_ACCESS_KEY
     # model_kwargs=dict(temperature=0),
 )
 

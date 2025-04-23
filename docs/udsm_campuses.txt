@@ -1,0 +1,276 @@
+
+Campus Navigation Knowledge Document
+1. Main Gate Entry (Orientation Point)sUpon entering from the main gate:
+
+2. Right Side (After Entry from the Main Gate)
+	•	The auxiliary Office is located immediately on the right.
+	•	Continuing on the right path from the gate, just past the Auxiliary Office:
+	•	There is an unidentified building (its purpose is unknown for now, but it can be referenced as a general-use building).
+	•	A bit further ahead is a gate that leads to the hostel area.
+
+3. Hostel AreaThere is one main hostel building, divided into two wings: Wing A and Wing B.
+
+Wing A
+	•	Ground Floor:
+	•	Room 1: Dispensary
+	•	Room 2: Warden’s Office
+	•	Rooms 3–20: Student sleeping rooms
+	•	First Floor:
+	•	Rooms 41–60: Student sleeping rooms
+	•	Second Floor:
+	•	Rooms 71–100: Student sleeping rooms
+
+Wing B
+	•	Ground Floor:
+	•	Rooms 21–40: Student sleeping rooms
+	•	First Floor:
+	•	Rooms 61–70: Student sleeping rooms
+	•	Second Floor:
+	•	Rooms 101–120: Student sleeping rooms
+
+4. Center Path (Straight Ahead from the Gate)
+	•	Walk a short distance forward:
+	•	On the left-hand side, there is a car parking area.
+	•	A bit further ahead is the cafeteria, where meals are served.
+
+5. Left Side (From the Main Gate)
+	•	Walk a short distance forward:
+	•	There is a parking area.
+	•	Then, you will reach the MCOICT huts, used by students for studying.
+	•	After the MCOICT huts, continuing forward, there is a corridor that connects Block A and Block B.
+
+
+6. Block A and Block B Corridor Connection (After MCOICT)
+	•	Continuing straight from MCOICT, there is a corridor that connects Block A and Block B.
+
+Block A - Ground Floor
+Upon entering Block A:
+	•	On the left-hand side, the following offices are located:
+	•	A006 – CSE Store
+	•	A007 – Missing Business Office
+	•	A008 – Office of Dr. A.J. Mwambela
+	•	A009 – Office of Dr. Isaac Bulugu
+	•	A005 – (Unknown occupant)
+	•	A004 – Head of SCE Department
+	•	A003 – Photocopy Room
+	•	After these, there is a small reception area, not quite a corridor, where:
+	•	On the left, there is:
+	•	A010 – Office of Dr. Helen Maziku
+	•	From the main entrance into Block A, if you go to the right-hand side, the following rooms/offices are present:
+	•	A012 – Ladies' Staff Washroom
+	•	A013 – Gents' Staff Washroom
+	•	A014 – Utility/Washing area (mostly used for washing utensils)
+	•	A015 – Part of office A027
+	•	A017 – Shared office for Dr. Mwakisole and Dr. Jimmy
+	•	A018 – Shared office for Dr. Hashim Ede and Dr. Moses Ismael
+	•	A019 – (Occupants unknown)
+	•	A020 – Shared office for Honest C.K. and Leonard Musa
+	•	A021 – Shared office for Dr. Nassor.A.Nassor, and Mr.Samuel Kimambo
+	•	A027 – CVL Office
+	•	A026 – Shared office for Dr. Geoffrey Gilstow and Dr. James Chambua
+	•	A025 – Office of Dr. Ally Bitebo
+	•	A024 – (Occupant unknown)
+	•	A023 – Shared office for Dr. Joseph Mushi and Dr. Mwita Sogorya
+	•	A022 – (Occupant unknown)
+	•	Also, still near the main entrance to Block A:
+	•	Continuing slightly forward leads to a staircase that provides access to the first floor.
+	•	Just before the staircase, there is also a door leading outside.
+
+
+Block A – First Floor (Full Overview)
+After going up the stairs from the ground floor to the first floor of Block A:
+
+Right-Hand Side (First Section of Offices)
+	•	A101 – First Floor Store
+	•	A102 – Office of Mr. Abassi
+	•	A103 – Office of Madam Mahadia Tunga
+	•	A104 – Accounts Registry Office
+	•	A107 – Shared office for Dr. Lungo, Dr. Anton Kigombola, and Dr. Alexandra Kivaisi
+	•	A108 – Office of Professor Abdi T. Abdilla
+
+Connecting Corridor (Block A to Block B)
+	•	There is a corridor on this floor with a door that connects the First Floor of Block A to the First Floor of Block B.
+	•	Note: This is different from the corridor on the ground floor, which also connects the two blocks.
+
+Left-Hand Side (From the Stairs – Opposite Section)
+After returning to the staircase and going to the left-hand side, the following offices and rooms are found:
+	•	A110 – Female Staff Washroom
+	•	A111 – Male Staff Washroom
+	•	A112 – Utility/Washing area (mostly used for washing utensils)
+	•	A113 – Part of office A115
+	•	A114, A115, and A116 – Principal’s Office (composed of three connected rooms)
+	•	After passing room A116, if you turn left, you will find:
+	•	A117 and A118 – Both are Boardrooms
+
+Opposite Side from A114
+Continuing from the opposite side of A114, the following offices are located:
+	•	A119 – COICT Consultancy Bureau (CCB)Manager’s Office
+	•	A120 – CCB Secretary’s Office
+	•	A121 – Principal’s Administrative Office
+
+Block B – Navigation Overview
+Ground Floor (Entering Block B from the MCOICT Corridor)
+Using the corridor connecting MCOICT to Block B, and entering Block B from the left side (instead of Block A), the following offices are located:
+	•	B009 – Office of Dr. Wilbert Nyamwihula (also shared with Dr. Matthew Mndeme)
+	•	B008 – Occupant unknown
+	•	B007 – Occupant unknown
+	•	B006 – Shared office of Dr. Diana Rose and Dr. Hadija Mbembati
+	•	B005 – Occupant absent
+	•	B023 – Female Staff Washroom
+	•	B024 – Store
+	•	B003 – Coffee Room
+	•	B002 – Occupant unknown
+	•	B020 – Occupant unknown
+	•	B019 – Office of Dr. LV Massawe
+	•	B018 – Occupant unknown
+	•	B017 – Shared office of Dr. S. Naiman and Dr. M. Mohammad
+	•	B016 – Shared office of Dr. F. Simba and Dr. K. Mkotcha
+	•	B015 – Shared office of Dr. Charles Tarimo and Dr. Wilfred Senyoni
+	•	B014 – Office of Dr. Kalinga
+	•	B013 – Occupant unknown
+	•	B012 – Secretary, ETE Department
+	•	B011 – Occupant unknown
+
+First Floor – Block B
+There are two staircases leading from the ground floor to the first floor:
+	•	One near Block A
+	•	One near Block B
+
+Using Staircase Near Block A:
+	•	Right-Hand Side:
+	•	B106 – Venue
+	•	B107 – Venue
+	•	B108 – DHIS-II UDSM Lab
+	•	B109 – UDICTI
+	•	Left-Hand Side:
+	•	B101 – Computer Lab
+	•	B102 – Workshop
+	•	B103 – Conference Room
+	•	B104 – Divided Office with subrooms:
+	•	B104A – Office of Dr. Leonard P. Binamungu
+	•	B104B – Office of Dr. Shamte
+	•	B104C – Office of Dr. Mahundi
+	•	B104D – Occupant unknown
+	•	B104E – Office of Dr. Coletha
+	•	B104F – Procurement Office (Madam Lina)
+	•	B104 – Also includes Dr. Zedekia’s Office
+	•	B110 – Male Staff Washroom
+	•	B111 – Female Staff Washroom
+
+Note on Orientation (for AI Navigation Logic):
+The position of venues is relative to which staircase is used:
+	•	If you use the staircase near Block A, the "right-hand side" and "left-hand side" follow the order listed above.
+	•	If you use the staircase near Block B, the orientation is reversed:
+	•	The right-hand side (Block A stair) becomes the left-hand side (Block B stair)
+	•	The left-hand side (Block A stair) becomes the right-hand side (Block B stair)
+
+Second Floor – Block B
+There are two staircases leading from the ground floor to the first floor:
+	•	One near Block A
+	•	One near Block B
+
+Using Staircase Near Block A:
+	•	Right-Hand Side:
+	•	B205 – Venue
+	•	B206 – Master’s Venue
+	•	B207 – Closed venue
+	•	B208 – Y4C Innovation Hub
+	•	Left-Hand Side:
+	•	B204 – Study/Discussion Room
+	•	B203 –Master’s / Postgraduate venue
+	•	B202 – Closed room
+	•	B201– FINHUB
+
+Note on Orientation (for AI Navigation Logic):
+The position of venues is relative to which staircase is used:
+	•	If you use the staircase near Block A, the "right-hand side" and "left-hand side" follow the order listed above.
+	•	If you use the staircase near Block B, the orientation is reversed:
+	•	The right-hand side (Block A stair) becomes the left-hand side (Block B stair)
+	•	The left-hand side (Block A stair) becomes the right-hand side (Block B stair)
+Third Floor – Block B
+There are two staircases leading from the ground floor to the first floor:
+	•	One near Block A
+	•	One near Block B
+
+Using Staircase Near Block A:
+	•	Right-Hand Side:
+	•	Venue 1:  With two doors ( B307 – First door &B308 – Second door)
+	•	Venue 2  – With two doors(B310 – First door & B311 – Second door)
+	•	
+	•	Left-Hand Side:
+	•	Venue 1:  With two doors ( B305 – First door &B304 – Second door)
+	•	Venue 2  – With two doors(B302 – First door & B301 – Second door)
+	•	
+
+Note on Orientation (for AI Navigation Logic):
+The position of venues is relative to which staircase is used:
+	•	If you use the staircase near Block A, the "right-hand side" and "left-hand side" follow the order listed above.
+	•	If you use the staircase near Block B, the orientation is reversed:
+	•	The right-hand side (Block A stair) becomes the left-hand side (Block B stair)
+	•	The left-hand side (Block A stair) becomes the right-hand side (Block B stair)
+
+
+Block C – Navigation Overview
+Using the corridor connecting Block B to Block C, the following are the venues within Block C, to begin with;
+	•	 From the Left-Hand Side using the corridor connecting Block B to Block C:
+	•	C10 –Male Student Toilet  
+	•	Un-numbered Room –Store  
+	•	C09 –Female Student Toilet  
+	•	C08 –Server room
+	•	C07 & C06 – DHIS2 Lab office  
+	•	C04 & C05 – Lab  
+	•	C02 & C03 –GIS Lab  
+	•	C01 – Power House   
+	•	C01 A –Daruso Office  
+Behind Block C there is a study area called Mzizima.
+
+
+Block D – Navigation Overview
+Using the corridor connecting Block B to Block C, to the left there is another block called Block D  
+Connecting Corridor: Block B to Block C
+	•	From Block B, proceed through the corridor connecting Block B and C.
+	•	While walking through this corridor, look to your left — you will see Block D, another academic building on the campus.
+Venues Located in Block D
+The following venues are located in Block D:
+	•	D01 – Luhanga Lecture Room
+	•	This venue has two entry doors:
+	•	Door 1: D01
+	•	Door 2: D02 
+After DO1 there is the Mabatini Study area, followed by a Wi-Fi 4U office. In front of the Wi-Fi 4U Office, there is Block E which houses generators. After Block E  follow the walking path surrounded by gardens leading to a staff parking area at the left and a second (exit/entrance) gate to the right.
+	•	D04 – Unknown Occupancy
+	•	The purpose of the current use of this room is currently unknown.
+	•	D05 – External Room
+	•	This room has other offices and rooms within it and is accessible through it and these rooms are as follows: 
+	•	            Left-Hand Side :
+	•	D24 – 3D&Robotics room
+	•	D25 – Unknown occupant
+	•	D23 –  Unknown occupant
+	•	D21 – Staff washroom with sub rooms:
+	•	D21A – Wash area
+	•	D21B – Door leading to  D21C and D21D
+	•	D21C – Male washroom
+	•	D21D – Female washroom
+	•	D19 – Lab
+	•	 D18 & D17 – Electronic lab
+	•	Room – Madam Teana’s office
+	•	
+            Right-Hand Side :
+	•	D07 – Unknown occupant
+	•	D20 – Main entrance door
+	•	D20A – Unknown occupant
+	•	D20B  – Unknown occupant
+	•	D20C – Ms Merina Marcelino
+	•	D20D – Shared by Eng. Daudi Selemani, Eng. Paul Haule and Mr Masembo
+	•	D20E – Unknown Occupant 
+	•	D20F - Store
+	•	D11 – Unknown occupant
+	•	D12 – Multi-media studio
+           At the middle end within the DO5 entrance:
+	•	D13 – Main entrance door
+	•	D14 – Madam Amina
+	•	D15  – Shared by Madam Mwanaaisha, Mr. Saganda and Dr Salome
+	•	D16 – Mr. Oscar, Mr. Mkwera, Mr.Haule and Dr. Aaron
+	•	D10 – PHD Student venue
+
+In front of Block D, there is a powerhouse followed by a building to the right which has four rooms which are A shop, stationery, a store, and a Wakala office. At the right of Block D, there is a construction site. 
+

@@ -14,18 +14,21 @@ from pinecone import Pinecone
 
 from documents import load_documents, get_context
 from model import chain_with_message_history
+from config import BaseConfig
 
 
 load_dotenv()
 
-pc = Pinecone(api_key=os.environ["PINECONE_API_KEY_SECRET"])
+settings = BaseConfig()
+
+pc = Pinecone(api_key=settings.PINECONE_API_KEY_SECRET)
 
 index_name = "fastapi-rag"
 
 index = pc.Index(index_name)
 
 embeddings = BedrockEmbeddings(
-    region_name=os.environ["BEDROCK_AWS_REGION"],
+    region_name=settings.AWS_REGION,
     model_id="amazon.titan-embed-image-v1",
 )
 
